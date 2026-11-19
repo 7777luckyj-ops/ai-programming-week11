@@ -1,2 +1,2 @@
-# -ai-programming-week11
+# ai-programming-week11
 test
